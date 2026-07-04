@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Colana logo" width="120">
+  <img src="./assets/logo.png" alt="Colana logo" width="160">
 </p>
 
 <h1 align="center">Colana</h1>
@@ -196,7 +196,7 @@ Colana is experimental memecoin infrastructure. Nothing here is investment, lega
 ---
 
 <p align="center">
-  <img src="./assets/logo.png" alt="Colana" width="48">
+  <img src="./assets/logo.png" alt="Colana" width="64">
   <br>
   <em>Solana 1.0 was built by humans. Solana 2.0 was designed by ChatGPT. Colana runs it on mainnet.</em>
 </p>
